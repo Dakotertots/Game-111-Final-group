@@ -1,0 +1,80 @@
+.WinButton {
+    justify-content: flex-start;
+    align-items: auto;
+    position: relative;
+    left: 0;
+    font-size: 40px;
+    -unity-font: url('project://database/Assets/Font/ComfyChristmasItalic-MVVmn.ttf?fileID=12800000&guid=cb9a610c231ac764abfc09941bfa70f3&type=3#ComfyChristmasItalic-MVVmn');
+    background-color: rgba(185, 132, 95, 0.73);
+    flex-wrap: nowrap;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+    -unity-background-scale-mode: stretch-to-fill;
+    -unity-font-style: normal;
+    width: 300px;
+}
+
+.WinButton:hover {
+    justify-content: flex-start;
+    align-items: auto;
+    position: relative;
+    left: 0;
+    font-size: 40px;
+    -unity-font: url('project://database/Assets/Font/ComfyChristmasItalic-MVVmn.ttf?fileID=12800000&guid=cb9a610c231ac764abfc09941bfa70f3&type=3#ComfyChristmasItalic-MVVmn');
+    background-color: rgb(185, 132, 95);
+    flex-wrap: nowrap;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+    -unity-background-scale-mode: stretch-to-fill;
+    -unity-font-style: bold;
+    width: 300px;
+    scale: 1.05 1;
+    transition-duration: 0.15s;
+    transition-timing-function: ease-in-sine;
+}
+
+.WinButton:active {
+    justify-content: flex-start;
+    align-items: auto;
+    position: relative;
+    left: 0;
+    font-size: 40px;
+    -unity-font: url('project://database/Assets/Font/ComfyChristmasItalic-MVVmn.ttf?fileID=12800000&guid=cb9a610c231ac764abfc09941bfa70f3&type=3#ComfyChristmasItalic-MVVmn');
+    background-color: rgb(253, 182, 132);
+    flex-wrap: nowrap;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    border-top-left-radius: 9px;
+    border-bottom-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+    -unity-background-scale-mode: stretch-to-fill;
+    -unity-font-style: bold;
+    width: 300px;
+}
